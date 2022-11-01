@@ -1,1 +1,2 @@
-this is example file in git 
+this is example file in git
+this is second line 
